@@ -1,0 +1,75 @@
+.spatiu-cosmic{
+  text-align:center;  
+  border:2px solid green;
+  padding-bottom:20px;
+  
+  
+  
+}
+.planetele{
+ text-align:center;
+  border:2px solid red;
+  padding-bottom:20px;
+  
+  
+  
+}
+body{
+ background-image:url(" https://astrodeva.files.wordpress.com/2014/06/galaxy.jpg  ") ;
+background-repeat: no-repeat;
+ background-position: center center;
+  backgroud-scroll: fixed;
+  background-size: cover;
+  
+  
+  
+ 
+}
+.cuvinte {
+  color:white;
+}
+.titlu{
+  color:white;
+    text-transform:capitalize;
+  text-decoration:underline;
+}
+.sace{
+  color:white;
+}
+.gg{
+  color:white;
+}
+.punct{
+  color:white;
+}
+
+#planeta-mea img{
+  width:850px;
+  height: 500px;
+  border-radius:50%;
+}
+
+label {
+  display: block;
+  opacity: 0.75;
+}
+#num_of_balls {
+  position: absolute;
+  opacity: 0.5;
+}
+img:hover {
+  border: 5px dotted green;
+    
+}
+.spac3 {
+  text-align:center;
+  color:#C6CDFF;
+}
+.max-3 {
+  color:white;
+  font-size:21px;
+}
+.max-4 {
+  color:#D8D9E1;
+  font-size:19px;
+}
